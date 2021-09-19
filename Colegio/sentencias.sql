@@ -234,3 +234,5 @@ SELECT * FROM personal_a_cargo\G;
 SELECT * FROM Padre\G;
 SELECT * FROM Madre\G;
 SELECT * FROM Alumno\G;
+
+-- Falta por generar los inner joins de las tablas de muchos a muchos
